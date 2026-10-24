@@ -2,11 +2,11 @@
 
 # `root@shintodoexist:~$ whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=professional+bug+generator;future+cloud+engineer+%E2%98%81%EF%B8%8F;currently+running+on+chai+%26+StackOverflow;sudo+make+me+employable;404%3A+sleep+not+found" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=works+on+my+machine;compiling+bad+decisions;probably+in+a+man+page;building+things+I+don't+understand+yet;cloud+native+by+accident" />
 
 <br>
 
-`[ B.Tech CSE student ]` ` [ caffeine-powered ]` 
+`[Cookin' i guess]` ` [ caffeine powered ]` 
 
 **breaking things so I can learn how to fix them.**
 
